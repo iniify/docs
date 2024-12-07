@@ -1,7 +1,7 @@
 - Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake and malware-spreading sites will float to the top of the search results. This also applies to searches on YouTube aswell.
 
 
-#software
+# software
 ## Avast 
 - collecting and selling user data.
 
