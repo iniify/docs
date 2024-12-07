@@ -8,7 +8,7 @@
 ## CCleaner 
 - Owned by Avast.
 
-The Pirate Bay / Kickass Torrents / Bitlord 
+## The Pirate Bay / Kickass Torrents / Bitlord 
  - Malware Risk.
 
 # games
