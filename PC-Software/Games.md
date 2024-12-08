@@ -208,6 +208,10 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 [**Steam Achievement Manager (SAM)**](https://github.com/gibbed/SteamAchievementManager) - A Steam achievements manager where you can add/delete achievements to any game you want.  
 **Using this tool might put your Steam account at risk.**  
 
+[**Steam Parental PIn Recovery Tool (SPPRTool)**](https://github.com/Ne3tCode/SPPRTool) - SPPRTool is using to recover Steam Family View PIN code without the need to use email if it is not set or not available
+
+[**RockStarGames Checker**](https://github.com/MoowY666/ROCKSTARGAMES-CHECKER) - SOCIAL CLUB CHECKER CRACKED (UnEazy)
+
 <small>Check out the [Release Board](https://cs.rin.ru/forum/viewforum.php?f=29) of CS.RIN.RU and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</small>
 
 ## Redistributables
